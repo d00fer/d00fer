@@ -11,19 +11,6 @@ Infrastructure as Code (IaC): Terraform for automating infrastructure provisioni
 RESTful APIs: Design and implementation of RESTful services
 Database: Experience with various databases including PostgreSQL and MongoDB
 
-🚀 Projects
-Project 1: Microservices E-commerce Platform
-Designed and implemented a microservices-based e-commerce platform using Go.
-Integrated Kafka for order processing, ensuring real-time updates on order status.
-Implemented Redis caching to optimize product catalog retrieval, resulting in a 30% reduction in response time.
-Project 2: Real-time Analytics Dashboard
-Developed a real-time analytics dashboard for monitoring system performance using Go and Kafka.
-Utilized Redis for caching frequently accessed data, enhancing dashboard responsiveness.
-Implemented Terraform scripts for automated deployment and scaling of the analytics infrastructure.
-
-🌐 Open Source Contributions
-GitHub Repository 1: Description of your contribution and impact.
-GitHub Repository 2: Description of your contribution and impact.
 
 📫 Contact
 Feel free to reach out to me via Github. I'm always open to discussing exciting projects, collaborations, or just to have a chat about technology!
